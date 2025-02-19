@@ -10,6 +10,7 @@
   <name>lecture2</name>
   <modules>
     <module>basic</module>
+    <module>stringexample</module>
   </modules>
 
   <properties>
